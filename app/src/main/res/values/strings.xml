@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherApi_DynamicURL</string>
+    <string name="weather_api">6aa950a46a1afd8d9b41b5bfb6a4497a</string>
+</resources>
